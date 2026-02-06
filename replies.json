@@ -1,0 +1,74 @@
+{
+  "joy": [
+    "Stress Meter: -1\nYou are glowing today. Hold onto this feeling.",
+    "Stress Meter: -1\nThe sun shines brighter now. Savor this moment.",
+    "Stress Meter: -1\nA perfect moment recorded. You are doing well.",
+    "Stress Meter: -1\nPositive energy detected. Keep this memory safe.",
+    "Stress Meter: -1\nYour resilience is recharging. Excellent work.",
+    "Stress Meter: -1\nRide this wave. You deserve this peace.",
+    "Stress Meter: -1\nCatalog this victory. It proves you can heal.",
+    "Stress Meter: -1\nSerotonin levels optimal. Enjoy the clarity.",
+    "Stress Meter: -1\nThis is your resource state. Remember it.",
+    "Stress Meter: -1\nShare this light with someone today."
+  ],
+  "happy": [
+    "Stress Meter: -1\nThings seem lighter. Enjoy the calm.",
+    "Stress Meter: -1\nA good day. Everything is okay for now.",
+    "Stress Meter: -1\nResilience is building. Keep going.",
+    "Stress Meter: -1\nYour resources exceed your demands today.",
+    "Stress Meter: -1\nFocus on this warmth. Let it fill you.",
+    "Stress Meter: -1\nA moment of flow. Stay present here.",
+    "Stress Meter: -1\nYou are effectively managing your load.",
+    "Stress Meter: -1\nWhatever you are doing, it is working.",
+    "Stress Meter: -1\nPeace is not a destination, it is this moment.",
+    "Stress Meter: -1\nYou are stronger than you were yesterday."
+  ],
+  "neutral": [
+    "Stress Meter: 0\nJust existing is enough. A quiet day.",
+    "Stress Meter: 0\nNothing wrong, nothing right. Just being.",
+    "Stress Meter: 0\nA moment of stillness. Breathe.",
+    "Stress Meter: 0\nWaiting for something, but safe for now.",
+    "Stress Meter: 0\nHomeostasis maintained. System stable.",
+    "Stress Meter: 0\nNo immediate threats detected. Rest easy.",
+    "Stress Meter: 0\nA blank canvas. You have control here.",
+    "Stress Meter: 0\nStillness is a valid form of progress.",
+    "Stress Meter: 0\nYou do not always need to be productive.",
+    "Stress Meter: 0\nObserve the world without judging it."
+  ],
+  "sadness": [
+    "Stress Meter: +1\nIt is okay to rest. This too shall pass.",
+    "Stress Meter: +1\nYou are not alone. Breathe through the heavy air.",
+    "Stress Meter: +1\nIdentify one small thing that went OK today.",
+    "Stress Meter: +1\nAllow yourself to feel, then gently let go.",
+    "Stress Meter: +1\nThis emotion is a visitor, not a resident.",
+    "Stress Meter: +1\nOutput is low, and that is acceptable.",
+    "Stress Meter: +1\nBe gentle with your internal monologue.",
+    "Stress Meter: +1\nGrief is just love with nowhere to go.",
+    "Stress Meter: +1\nWrap yourself in warmth. Drink water.",
+    "Stress Meter: +1\nDo not force the engine. Coast for a while."
+  ],
+  "fear": [
+    "Stress Meter: +1\nYou are safe here. Take a deep breath.",
+    "Stress Meter: +1\nWhat small step could reduce this worry?",
+    "Stress Meter: +1\nFocus on 5 things you can see right now.",
+    "Stress Meter: +1\nThe shadows cannot hurt you. One step at a time.",
+    "Stress Meter: +1\nAnxiety is a liar. Check the facts.",
+    "Stress Meter: +1\nFeel your feet on the floor. Ground yourself.",
+    "Stress Meter: +1\nThe worst-case scenario is rarely the reality.",
+    "Stress Meter: +1\nYou are time-traveling. Stay in the now.",
+    "Stress Meter: +1\nPause the simulation. Look around you.",
+    "Stress Meter: +1\nName one thing you can control right now."
+  ],
+  "anger": [
+    "Stress Meter: +1\nLet the heat fade. Count to ten slowly.",
+    "Stress Meter: +1\nDo not let it consume you. Scream if you must.",
+    "Stress Meter: +1\nUnclench your jaw. Drop your shoulders.",
+    "Stress Meter: +1\nThis is a temporary storm. Wait it out.",
+    "Stress Meter: +1\nHigh energy detected. Channel it safely.",
+    "Stress Meter: +1\nStep back. Do not react; respond.",
+    "Stress Meter: +1\nYou are protecting yourself. It is okay.",
+    "Stress Meter: +1\nWalk away. The situation will wait.",
+    "Stress Meter: +1\nYour boundaries were crossed. Breathe.",
+    "Stress Meter: +1\nCool down. Drink a glass of cold water."
+  ]
+}
